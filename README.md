@@ -8,8 +8,8 @@
 * [tiffting](https://github.com/tiffting) - [pairprogramming - javascript](https://github.com/tiffting/pairprogramming)
 * [ruofan](https://github.com/ruofanwei) - [pairprogramming - python](https://github.com/ruofanwei/test)
 * [nurockplayer](https://github.com/nurockplayer) - [pairprogramming - python](https://github.com/nurockplayer/py_project1)
-* [gracie012293](https://github.com/gracie012293) - [pairprogramming - go](https://github.com/gracie012293/pairprogramming)
-* [G110632018](https://github.com/G110632018) - [pairprogramming - go](https://github.com/gracie012293/pairprogramming)
+* [gracie012293](https://github.com/gracie012293) - [pairprogramming - android](https://github.com/gracie012293/pairprogramming)
+* [G110632018](https://github.com/G110632018) - [pairprogramming - android](https://github.com/gracie012293/pairprogramming)
 
 ### Mentor
 * [gitmaruneko](https://github.com/gitmaruneko)
