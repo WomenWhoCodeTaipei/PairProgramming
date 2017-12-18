@@ -14,3 +14,6 @@
 ### Mentor
 * [gitmaruneko](https://github.com/gitmaruneko)
 * [Ted Lee](https://github.com/lct4246)
+
+### Host
+* [Joannie Huang](https://github.com/Joannie)
